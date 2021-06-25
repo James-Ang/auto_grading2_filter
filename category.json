@@ -1,0 +1,629 @@
+{
+   "recordStatus":"ACTIVE",
+   "dateArchived":"",
+   "id":202105040000306,
+   "name":"Morlipont 24-40",
+   "code":"None",
+   "productType":"SKU",
+   "advanceMode":false,
+   "brand":"None",
+   "model":"None",
+   "description":"Morlipont 24-40 is based on a primary linear C12-C14 fatty alcohol with approx. 4 moles ethylene oxide. The alcohol is obtained from oleo oils, e.g. palm kernel oil, by transesterification and hydrogenation reaction. Morlipont 24-40 is also available as RSPO-MB grade.",
+   "longDescription":"<p>Morlipont 24-40 is based on a primary linear C12-C14 fatty alcohol with approx. 4 moles ethylene oxide. The alcohol is obtained from oleo oils, e.g. palm kernel oil, by transesterification and hydrogenation reaction. Morlipont 24-40 is also available as RSPO-MB grade.</p>",
+   "keySellingPoint":"",
+   "videoUrl":"None",
+   "dateCreated":{
+      "year":2021,
+      "month":5,
+      "day":4
+   },
+   "productApplication":"<ul><li>Laundry Liquid</li><li>Laundry Powders</li><li>Bathroom Cleaners</li><li>Janitorial Products</li><li>Vehicle Cleaners</li><li>Shampoos</li><li>Shower Gels</li><li>Emulsions for technical processes</li></ul>",
+   "howItWork":"",
+   "keyContactPersons":[
+      202105040000280
+   ],
+   "deliveryDateOption":"DEFAULT",
+   "credential":"None",
+   "sellerCountryCode":"ZA",
+   "sellerBusinessTypes":[
+      "DISTRIBUTOR/RESELLER"
+   ],
+   "controlledItem":false,
+   "productRegistrations":"None",
+   "productHandling":"None",
+   "productHandlingDocuments":[
+      
+   ],
+   "productAccreditation":"None",
+   "productCertificates":[
+      
+   ],
+   "safelyDataSheet":"None",
+   "safelyDataSheetDocuments":[
+      
+   ],
+   "supplyLocations":[
+      
+   ],
+   "images":[
+      {
+         "companyId":"None",
+         "id":"None",
+         "name":"None",
+         "altText":"None",
+         "small":"None",
+         "thumbnail":"None",
+         "large":"None",
+         "imageUrl":"file-repo/202105040000250/frp-7473132397336413815.jpg"
+      }
+   ],
+   "propertyValues":[
+      
+   ],
+   "characteristics":[
+      
+   ],
+   "specificationValues":[
+      {
+         "specification":{
+            "id":202105040000025,
+            "name":"Viscosity ",
+            "code":"None",
+            "value":"None",
+            "unit":"mPa.s",
+            "testMethod":" @20 deg. C"
+         },
+         "value":"35"
+      },
+      {
+         "specification":{
+            "id":202105040000026,
+            "name":"Surface Concentration",
+            "code":"None",
+            "value":"None",
+            "unit":"mN/m",
+            "testMethod":"-"
+         },
+         "value":"28.5"
+      },
+      {
+         "specification":{
+            "id":202105040000027,
+            "name":"Critical Micelle Concentration",
+            "code":"None",
+            "value":"None",
+            "unit":"mg/l",
+            "testMethod":"-"
+         },
+         "value":"6"
+      },
+      {
+         "specification":{
+            "id":202105040000028,
+            "name":"EO Content",
+            "code":"None",
+            "value":"None",
+            "unit":"%",
+            "testMethod":"-"
+         },
+         "value":"47.5"
+      },
+      {
+         "specification":{
+            "id":202105040000029,
+            "name":"OH Value\t",
+            "code":"None",
+            "value":"None",
+            "unit":"mg KOH/g",
+            "testMethod":"-"
+         },
+         "value":"148"
+      },
+      {
+         "specification":{
+            "id":202105090000030,
+            "name":"Wetting Efficiency on textiles (Performance)",
+            "code":"None",
+            "value":"None",
+            "unit":"s",
+            "testMethod":"@20 deg. C, 1 g/l in D.I water"
+         },
+         "value":"40"
+      },
+      {
+         "specification":{
+            "id":202105090000031,
+            "name":"Wetting Efficiency on Hard Surface-Polypropylene (Performance)",
+            "code":"None",
+            "value":"None",
+            "unit":"deg. angle",
+            "testMethod":"Sessile method @20 deg. C, 50% humidity,1 g/l in D.I Water"
+         },
+         "value":"43"
+      }
+   ],
+   "productAdvocates":[
+      
+   ],
+   "variantSkus":[
+      {
+         "skuCode":"None",
+         "skuUuid":"None",
+         "productSkuID":202105040000478,
+         "variantValues":[
+            {
+               "variantType":{
+                  "id":"None",
+                  "name":"Packaging",
+                  "code":"Packaging",
+                  "dataSource":"None",
+                  "inputType":"None",
+                  "variantTypeValues":[
+                     {
+                        "id":"None",
+                        "value":"250kg_IBC_Tank",
+                        "name":"250kg IBC Tank",
+                        "sortOrder":0
+                     },
+                     {
+                        "id":"None",
+                        "value":"220kg_Net_Steel_Drum",
+                        "name":"220kg Net Steel Drum",
+                        "sortOrder":0
+                     },
+                     {
+                        "id":"None",
+                        "value":"180kg_Net_HDPE_Drum",
+                        "name":"180kg Net HDPE Drum",
+                        "sortOrder":0
+                     }
+                  ]
+               },
+               "value":"180kg_Net_HDPE_Drum",
+               "label":"180kg Net HDPE Drum"
+            }
+         ],
+         "plantProvenances":[
+            
+         ],
+         "skuSalesUnit":{
+            "uomID":201909041500002,
+            "code":"KG",
+            "name":"Kilogram",
+            "shortName":"KG"
+         },
+         "enabled":true
+      },
+      {
+         "skuCode":"None",
+         "skuUuid":"None",
+         "productSkuID":202105130000489,
+         "variantValues":[
+            {
+               "variantType":{
+                  "id":"None",
+                  "name":"Packaging",
+                  "code":"Packaging",
+                  "dataSource":"None",
+                  "inputType":"None",
+                  "variantTypeValues":[
+                     {
+                        "id":"None",
+                        "value":"180kg_Net_HDPE_Drum",
+                        "name":"180kg Net HDPE Drum",
+                        "sortOrder":0
+                     },
+                     {
+                        "id":"None",
+                        "value":"250kg_IBC_Tank",
+                        "name":"250kg IBC Tank",
+                        "sortOrder":0
+                     },
+                     {
+                        "id":"None",
+                        "value":"220kg_Net_Steel_Drum",
+                        "name":"220kg Net Steel Drum",
+                        "sortOrder":0
+                     }
+                  ]
+               },
+               "value":"220kg_Net_Steel_Drum",
+               "label":"220kg Net Steel Drum"
+            }
+         ],
+         "plantProvenances":[
+            
+         ],
+         "skuSalesUnit":{
+            "uomID":201909041500002,
+            "code":"KG",
+            "name":"Kilogram",
+            "shortName":"KG"
+         },
+         "enabled":true
+      },
+      {
+         "skuCode":"None",
+         "skuUuid":"None",
+         "productSkuID":202105130000490,
+         "variantValues":[
+            {
+               "variantType":{
+                  "id":"None",
+                  "name":"Packaging",
+                  "code":"Packaging",
+                  "dataSource":"None",
+                  "inputType":"None",
+                  "variantTypeValues":[
+                     {
+                        "id":"None",
+                        "value":"180kg_Net_HDPE_Drum",
+                        "name":"180kg Net HDPE Drum",
+                        "sortOrder":0
+                     },
+                     {
+                        "id":"None",
+                        "value":"220kg_Net_Steel_Drum",
+                        "name":"220kg Net Steel Drum",
+                        "sortOrder":0
+                     },
+                     {
+                        "id":"None",
+                        "value":"250kg_IBC_Tank",
+                        "name":"250kg IBC Tank",
+                        "sortOrder":0
+                     }
+                  ]
+               },
+               "value":"250kg_IBC_Tank",
+               "label":"250kg IBC Tank"
+            }
+         ],
+         "plantProvenances":[
+            
+         ],
+         "skuSalesUnit":{
+            "uomID":201909041500002,
+            "code":"KG",
+            "name":"Kilogram",
+            "shortName":"KG"
+         },
+         "enabled":true
+      }
+   ],
+   "status":"ACTIVE",
+   "supplierUuid":"None",
+   "companyId":202105040000250,
+   "vesselSchedule":false,
+   "keywords":"None",
+   "titleTag":"None",
+   "descriptionTag":"None",
+   "halalAttachments":[
+      
+   ],
+   "halalApplicationForm":"None",
+   "daysToShip":2,
+   "skuMode":"MULTIPLE",
+   "productVariantTypes":[
+      {
+         "id":"None",
+         "name":"Packaging",
+         "code":"Packaging",
+         "dataSource":"None",
+         "inputType":"None",
+         "variantTypeValues":[
+            
+         ],
+         "enable":true,
+         "customVariantTypeValues":[
+            {
+               "id":"None",
+               "value":"180kg_Net_HDPE_Drum",
+               "name":"180kg Net HDPE Drum",
+               "sortOrder":0
+            },
+            {
+               "id":"None",
+               "value":"220kg_Net_Steel_Drum",
+               "name":"220kg Net Steel Drum",
+               "sortOrder":0
+            },
+            {
+               "id":"None",
+               "value":"250kg_IBC_Tank",
+               "name":"250kg IBC Tank",
+               "sortOrder":0
+            }
+         ],
+         "custom":true
+      }
+   ],
+   "weight":0.0,
+   "height":0.0,
+   "width":0.0,
+   "length":0.0,
+   "excludedCouriers":"None",
+   "warrantyType":"None",
+   "sellingMode":"B2B",
+   "deliveredBySeller":false,
+   "sellerLogistic":"None",
+   "importPermit":false,
+   "enQualityAdjustment":false,
+   "enPerPercentage":false,
+   "productCompositions":"None",
+   "skuSize":3,
+   "category":{
+      "id":202105040000131,
+      "code":"FATTY ALCHOHOL ETHOXYLATE",
+      "name":"Fatty Alchohol Ethoxylates",
+      "metaTitle":"None",
+      "metaDescription":"None",
+      "keywords":"None",
+      "status":"ACTIVE",
+      "urlPath":"Fatty-Alchohol-Ethoxylates",
+      "hasGrade":true,
+      "parentCategory":{
+         "id":202105090000132,
+         "code":"SURFACTANTS",
+         "name":"Surfactants",
+         "metaTitle":"None",
+         "metaDescription":"None",
+         "keywords":"None",
+         "status":"ACTIVE",
+         "urlPath":"Surfactants",
+         "hasGrade":false,
+         "parentCategory":{
+            "id":201908210000008,
+            "code":"CHEMICALS",
+            "name":"Chemicals",
+            "metaTitle":"None",
+            "metaDescription":"None",
+            "keywords":"None",
+            "status":"ACTIVE",
+            "urlPath":"Chemicals",
+            "hasGrade":true,
+            "parentCategory":"None",
+            "variantFamily":"None",
+            "specifications":[
+               
+            ],
+            "properties":[
+               
+            ],
+            "characteristics":[
+               
+            ],
+            "gradings":"None",
+            "image":"None",
+            "industries":[
+               
+            ]
+         },
+         "variantFamily":"None",
+         "specifications":[
+            
+         ],
+         "properties":[
+            
+         ],
+         "characteristics":[
+            
+         ],
+         "gradings":"None",
+         "image":"None",
+         "industries":[
+            
+         ]
+      },
+      "variantFamily":"None",
+      "specifications":[
+         {
+            "id":202105090000030,
+            "name":"Wetting Efficiency on textiles",
+            "code":"mar006",
+            "value":"None",
+            "unit":"s",
+            "testMethod":"@20 deg. C, 1 g/l in D.I water"
+         },
+         {
+            "id":202105040000025,
+            "name":"Viscosity @20 deg. C",
+            "code":"mar001",
+            "value":"None",
+            "unit":"mPa.s",
+            "testMethod":"@20 deg. C"
+         },
+         {
+            "id":202105040000026,
+            "name":"Surface Concentration",
+            "code":"mar002",
+            "value":"None",
+            "unit":"mN/m",
+            "testMethod":" "
+         },
+         {
+            "id":202105040000027,
+            "name":"Critical Micelle Concentration",
+            "code":"mar003",
+            "value":"None",
+            "unit":"mg/l",
+            "testMethod":" "
+         },
+         {
+            "id":202105090000031,
+            "name":"Wetting Efficiency on Hard Surface (Polypropylene)",
+            "code":"mar007",
+            "value":"None",
+            "unit":"deg. angle",
+            "testMethod":"Sessile method @20 deg. C, 50% humidity,1 g/l in D.I Water"
+         },
+         {
+            "id":202105040000028,
+            "name":"EO Content",
+            "code":"mar004",
+            "value":"None",
+            "unit":"%",
+            "testMethod":" "
+         },
+         {
+            "id":202105040000029,
+            "name":"OH Value\t",
+            "code":"mar005",
+            "value":"None",
+            "unit":"mg KOH/g",
+            "testMethod":" "
+         }
+      ],
+      "properties":[
+         
+      ],
+      "characteristics":[
+         
+      ],
+      "gradings":"None",
+      "image":"None",
+      "industries":[
+         
+      ]
+   },
+   "uomCode":"None",
+   "sellerCompany":{
+      "id":202105040000250,
+      "name":"Sosilo",
+      "code":"23545346",
+      "address1":"Sosilo Place 50 Katherine Street Sandton",
+      "address2":"None",
+      "address3":"None",
+      "generalLine":"0323456789",
+      "faxNumber":"None",
+      "timeZone":"(UTC+02:00) Cairo",
+      "adminEmail":"None",
+      "website":"None",
+      "uuid":"None",
+      "registrationNo":"23545346",
+      "taxNo":"None",
+      "source":"register",
+      "country":"ZA",
+      "countryId":"None",
+      "totalEmployees":"None",
+      "businessModel":"None",
+      "industry":"None",
+      "productCategories":[
+         
+      ],
+      "image":{
+         "companyId":202105040000250,
+         "id":202105080000354,
+         "name":"None",
+         "altText":"None",
+         "small":"None",
+         "thumbnail":"None",
+         "large":"None",
+         "imageUrl":"file-repo/202105040000250/frp-5350156679480587116.png"
+      },
+      "type":"None",
+      "postcode":"2196",
+      "state":"Gauteng",
+      "city":"Johannesburg",
+      "businessType":[
+         "DISTRIBUTOR/RESELLER"
+      ],
+      "businessActivity":[
+         "SELL_MANUFACTURED_PRODUCT",
+         "BUY_KEY_RAW_MATERIAL/FUEL"
+      ],
+      "countryName":"South Africa"
+   },
+   "sellerCompanyProfile":{
+      "id":202105040000183,
+      "currencyCode":"MYR",
+      "longIntroduction":"None",
+      "credential":"None",
+      "totalAnnualRevenue":"None",
+      "incoterms":[
+         
+      ],
+      "paymentTerms":[
+         
+      ],
+      "paymentMethods":[
+         
+      ],
+      "locations":[
+         {
+            "companyId":202105040000250,
+            "id":202105040000439,
+            "name":"Sasol",
+            "latitude":0.0,
+            "longitude":0.0,
+            "address":"Sasol, Place 50, Katherine Street, Sandton",
+            "countryCode":"ZA",
+            "nearestPortCountry":"ZA",
+            "portCode":"ZA DUR",
+            "postcode":"2196",
+            "state":"Gauteng",
+            "city":"Johannesburg",
+            "portName":"None",
+            "countryName":"None",
+            "nearestPortCountryName":"None",
+            "code":"None",
+            "fullName":"None",
+            "phoneNo":"None",
+            "locationType":"None",
+            "nearestAirportCountry":"None",
+            "nearestAirportCountryName":"None",
+            "airportCode":"None",
+            "airportName":"None",
+            "defaultBilling":false,
+            "deliveryLocation":false,
+            "defaultShipping":false,
+            "supplyLocation":true
+         },
+         {
+            "companyId":202105040000250,
+            "id":202105070000444,
+            "name":"Test",
+            "latitude":0.0,
+            "longitude":0.0,
+            "address":"311, JALAN 12,\nTAMAN GREENWOOD",
+            "countryCode":"DZ",
+            "nearestPortCountry":"None",
+            "portCode":"None",
+            "postcode":"68100",
+            "state":"al-Bayadh",
+            "city":"al-Bayadh",
+            "portName":"None",
+            "countryName":"None",
+            "nearestPortCountryName":"None",
+            "code":"None",
+            "fullName":"None",
+            "phoneNo":"None",
+            "locationType":"None",
+            "nearestAirportCountry":"None",
+            "nearestAirportCountryName":"None",
+            "airportCode":"None",
+            "airportName":"None",
+            "defaultBilling":false,
+            "deliveryLocation":false,
+            "defaultShipping":false,
+            "supplyLocation":false
+         }
+      ],
+      "certificates":[
+         
+      ],
+      "videos":[
+         
+      ],
+      "salesTermCondition":"None"
+   },
+   "reviews":[
+      
+   ],
+   "consumerPrice":0.0,
+   "consumerPriceUom":"None",
+   "consumerPriceCurrency":"None",
+   "slug":"morlipont-24-40",
+   "containerize":false,
+   "new":false
+}

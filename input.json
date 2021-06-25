@@ -1,0 +1,12 @@
+{
+  "spec_input": {
+    "companyID": [202105040000250],
+    "viscoMin": "",
+    "viscoMax": 40,
+    "viscoUom" : "mPa.s",
+    "wethardMin": "",
+    "wethardMax": "",
+    "wethardUom": "deg. angle",
+    "application": "Bathroom Cleaners"
+  }
+}
